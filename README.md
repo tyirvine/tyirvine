@@ -5,7 +5,9 @@
 ###### ✨ Connect with me on Twitter!  • https://twitter.com/_tyirvine
 
 
-### Some of my favourite subreddits!
+
+
+### Some of my favourite subreddits! ✎
 
 - https://reddit.com/r/ProgrammerHumor
 - https://reddit.com/r/iOSProgramming
