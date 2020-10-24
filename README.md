@@ -4,7 +4,6 @@
 
 ✨ **Connect with me on Twitter!**  • https://twitter.com/_tyirvine
 
-</br>
 ---
 
 ### Some of my favourite subreddits!
