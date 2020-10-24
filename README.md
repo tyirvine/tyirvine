@@ -3,7 +3,6 @@
 
 ###### ✨ Connect with me on Twitter!  • https://twitter.com/_tyirvine
 
-&nbsp;
 
 ### Some of my favourite subreddits! ✎
 
