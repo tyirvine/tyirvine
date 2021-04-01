@@ -1,19 +1,3 @@
-## Ty Irvine &nbsp; | &nbsp; HTML Programmer
-<img src="https://github-readme-stats.vercel.app/api?username=tyirvine&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
-
-### Some of my favourite subreddits! ✨
-
-- https://reddit.com/r/ProgrammerHumor
-- https://reddit.com/r/iOSProgramming
-- https://reddit.com/r/Unity3D
-
-
-
-
-
-
-
-
 
 
 
