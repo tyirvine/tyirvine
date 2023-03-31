@@ -1,11 +1,5 @@
 <br>
-<div align="center"><img src="https://user-images.githubusercontent.com/39813066/120247639-76f6bd80-c231-11eb-9d24-06a431d77e09.gif" width="65" height="48"></div>
-
-<div align="center"><h3>Building README.md . . .</h3></div>
-
-
-
-
+<div align="center">. .. .... ... ....<img src="https://user-images.githubusercontent.com/39813066/120247639-76f6bd80-c231-11eb-9d24-06a431d77e09.gif" width="65" height="48">... .. .... .... .</div>
 
 <!--
 **tyirvine/tyirvine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
